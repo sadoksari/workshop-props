@@ -1,0 +1,58 @@
+export const players = [
+  { id: 1 , 
+    name : "Sadok"    ,
+    team : "Italya"  ,
+    nationality : "Tunisian" ,
+    jerseyNumber : 7    ,
+    age : 48 ,
+    urlImage : "./images/sadok.jpeg"
+  } ,
+  { id: 2 , 
+    name : "Ali"    ,
+    team : "Iles maurice"  ,
+    nationality : "Marocain" ,
+    jerseyNumber : 10    ,
+    age : 23 ,
+    urlImage : "./images/ali.jpeg"
+  } ,
+  { id: 3 , 
+    name : "Tarek"    ,
+    team : "Sud afrique"  ,
+    nationality : "Mauritania" ,
+    jerseyNumber : 11    ,
+    age : 23 ,
+    urlImage : "./images/Tarek.jpeg"
+  } ,
+  { id: 4 , 
+    name : "ALi Baba"    ,
+    team : "Inde"  ,
+    nationality : "Algérian" ,
+    jerseyNumber : 15    ,
+    age : 30 ,
+    urlImage : "./images/Baba.jpeg"
+  }  ,
+  { id: 5 , 
+    name : "Jbali"    ,
+    team : "Tunisie"  ,
+    nationality : "Senegal" ,
+    jerseyNumber : 15    ,
+    age : 30 ,
+    urlImage : "./images/Jbali.jpeg"
+  } ,
+  { id: 3 , 
+    name : "Tarek"    ,
+    team : "Sud afrique"  ,
+    nationality : "Mauritania" ,
+    jerseyNumber : 11    ,
+    age : 23 ,
+    urlImage : "./images/Tarek.jpeg"
+  } ,
+  { id: 4 , 
+    name : "ALi Baba"    ,
+    team : "Inde"  ,
+    nationality : "Algérian" ,
+    jerseyNumber : 15    ,
+    age : 30 ,
+    urlImage : "./images/Baba.jpeg"
+  }  
+]
